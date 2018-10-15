@@ -1,0 +1,21 @@
+npm-debug.log*
+lerna-debug.log*
+coverage
+stats.js
+node_modules/
+build/
+target/
+.eslintcache
+
+# Exclude IDE project folders
+.idea
+*.sublime-project
+*.sublime-workspace
+jsconfig.json
+.history
+
+# OS files
+.DS_STORE
+
+# Yarn
+yarn-error.log
